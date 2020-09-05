@@ -136,3 +136,7 @@ dmypy.json
 
 # Visual Studio Code
 *.vscode
+
+# Custom ignores for machine learning projects
+data/
+model/
