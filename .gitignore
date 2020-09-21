@@ -140,3 +140,6 @@ dmypy.json
 # Custom ignores for machine learning projects
 data/
 model/
+
+# Numpy files
+*.npy
