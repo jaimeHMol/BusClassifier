@@ -138,8 +138,8 @@ dmypy.json
 *.vscode
 
 # Custom ignores for machine learning projects
-data/
-model/
+# data/
+# model/
 
 # Numpy files
 *.npy
